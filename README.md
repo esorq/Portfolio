@@ -1,2 +1,2 @@
 # Portfolio
-Some of my past machine learning projects
+My name is Erik and I´m a machine leanring Engineer and this repository is showcase of prior machine learning projects of mine.
