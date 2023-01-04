@@ -1,4 +1,7 @@
-# Portfolio
+# Data Science, Machine Learning and AI portfolio
+-------------------
+## Introduction
+------------------
 Hi there!
 
 My name is Erik and I´m a machine learning Engineer. 
