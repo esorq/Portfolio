@@ -1,8 +1,6 @@
 # Data Science & Machine Learning portfolio
 As an aspiring Data Scientist and Machine Learning engineer, I have built this personal Data Science and Machine Learning portfolio to showcase how I solved different kind of problems by exercising machine learning approaches.
 
-## Introduction
-
 I have a backgorund in the mechanical engineering field which sometimes can be seen from the nature of the problems in this portfolio.
 
 Enjoy!
