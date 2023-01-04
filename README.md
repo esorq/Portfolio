@@ -2,6 +2,11 @@
 -------------------
 ## Introduction
 ------------------
+As an aspiring Data Scientist and Machine Leraning engineer, I build this personal Data Science and Machine Learning portfolio to share learnings, experiences and collaborate with people who have the same interest in this field. 
+
+I have a backgorund in the mechanical engineering field which sometimes can be seen from the nature of the problems in this portfolio.
+
+
 Hi there!
 
 My name is Erik and I´m a machine learning Engineer. 
