@@ -8,7 +8,10 @@ Enjoy!
 **Table of contents**
 - [Binary classification on tabular data](#binary-classification-on-tabular-data)
 - [Anomaly detection for assembly verification](#anomaly-detection-for-assembly-verification) 
-<img src="https://user-images.githubusercontent.com/75247240/210528595-5b9bd4c5-d88f-4c8b-9553-f8798e28f359.png" alt="drawing" width="500"/>
 
 ### Binary classification on tabular data
 ### Anomaly detection for assembly verification
+
+## Workflow
+To achieve results is the workflow from the course **Zero to Mastery Learn PyTorch for Deep Learning** leveraged
+![01_a_pytorch_workflow](https://user-images.githubusercontent.com/75247240/211261407-5afcb13c-43ef-4aeb-9fcc-080053c3ad39.png)
