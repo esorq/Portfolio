@@ -13,5 +13,6 @@ Enjoy!
 ### Anomaly detection for assembly verification
 
 ## Workflow
-To achieve results is the workflow from the course **Zero to Mastery Learn PyTorch for Deep Learning** leveraged
+Results are achieved by leveraging the same below workflow as described in the course **Zero to Mastery Learn PyTorch for Deep Learning**:
+
 ![01_a_pytorch_workflow](https://user-images.githubusercontent.com/75247240/211261407-5afcb13c-43ef-4aeb-9fcc-080053c3ad39.png)
