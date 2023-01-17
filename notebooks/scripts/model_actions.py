@@ -2,6 +2,7 @@
 Contains functions for training and testing a PyTorch model.
 """
 import torch
+import torchvision
 from PIL import Image
 import matplotlib.pyplot as plt 
 
