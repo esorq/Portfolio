@@ -190,7 +190,7 @@ def pred_and_plot_image(model: torch.nn.Module,
                         class_names: List[str],
                         image_size: Tuple[int, int] = (224, 224),
                         transform: torchvision.transforms = None,
-                        device: torch.device=device):
+                        device: torch.device):
     
     
     # 2. Open image
