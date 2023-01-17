@@ -99,7 +99,7 @@ def test_step(model: torch.nn.Module,
             # 1. Forward pass
             test_pred_logits = model(X)
             #y_preds.extend(torch.round(torch.sigmoid(test_pred_logits)).squeeze(dim=1).cpu().numpy())
-            y_preds.extend((torch.argmax(test_pred_logits)).cpu().numpy().item())
+            y_preds.extend((torch.argmax(test_pred_logits,dim=1)).cpu().numpy())
             y_tests.extend(y.cpu().numpy())
             # 2. Calculate and accumulate loss
             loss = loss_fn(test_pred_logits, y)
