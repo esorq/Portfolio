@@ -87,7 +87,8 @@ def test_step(model: torch.nn.Module,
 
     # Setup test loss and test accuracy values
     test_loss, test_acc = 0, 0
-
+    y_preds = []
+    y_tests = []
     # Turn on inference context manager
     with torch.inference_mode():
         # Loop through DataLoader batches
@@ -97,7 +98,8 @@ def test_step(model: torch.nn.Module,
 
             # 1. Forward pass
             test_pred_logits = model(X)
-
+            y_preds.extend(torch.round(torch.sigmoid(y_pred_logit)).squeeze(dim=1).cpu().numpy())
+            y_tests.extend(y.cpu().numpy())
             # 2. Calculate and accumulate loss
             loss = loss_fn(test_pred_logits, y)
             test_loss += loss.item()
@@ -109,7 +111,7 @@ def test_step(model: torch.nn.Module,
     # Adjust metrics to get average loss and accuracy per batch 
     test_loss = test_loss / len(dataloader)
     test_acc = test_acc / len(dataloader)
-    return test_loss, test_acc
+    return test_loss, test_acc, y_preds, y_tests
 
 def train(model: torch.nn.Module, 
           train_dataloader: torch.utils.data.DataLoader, 
@@ -162,7 +164,7 @@ def train(model: torch.nn.Module,
                                           loss_fn=loss_fn,
                                           optimizer=optimizer,
                                           device=device)
-        test_loss, test_acc = test_step(model=model,
+        test_loss, test_acc,y_preds, y_tests = test_step(model=model,
           dataloader=test_dataloader,
           loss_fn=loss_fn,
           device=device)
@@ -183,7 +185,7 @@ def train(model: torch.nn.Module,
         results["test_acc"].append(test_acc)
 
     # Return the filled results at the end of the epochs
-    return results
+    return results, y_preds, y_tests
 
   
   
