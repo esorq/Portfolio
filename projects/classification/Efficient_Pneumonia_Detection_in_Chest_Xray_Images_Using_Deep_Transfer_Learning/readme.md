@@ -2,9 +2,7 @@
 
 <pre>
 Domain             : Computer Vision, Machine Learning
-Sub-Domain         : Deep Learning, Image Recognition
-Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
-Application        : Image Recognition, Image Classification, Medical Imaging
+Sub-Domain         : Deep Learning, Image Classification
 </pre>
 
 ### Description
@@ -16,8 +14,8 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 
 #### Code
 <pre>
-GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitHub)</a>
-Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
+Colab         : <a [Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning.ipynb</a>
+Scripts       : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
 </pre>
 
 #### Dataset
