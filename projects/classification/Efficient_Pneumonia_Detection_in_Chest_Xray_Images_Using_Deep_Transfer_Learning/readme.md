@@ -11,13 +11,12 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 <pre>
 1. Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neural Network and by retraining pretrained model “efficientnet_b0” with 5856 images of X-ray (1.15GB).
 2. For retraining removed output layers, freezed first few layers and fine-tuned model for two new label classes (Pneumonia and Normal).
-3. With Custom Deep Convololutional Neural Network attained testing accuracy 89.53% and loss 0.41.
+3. With Custom Deep Convololutional Neural Network attained testing accuracy 92.45% and loss 0.2876.
 </pre>
 
 #### Code
 <pre>
 GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitHub)</a>
-GitLab Link      : <a href=https://gitlab.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitLab)</a>
 Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
 </pre>
 
@@ -41,16 +40,16 @@ Number/Size of Images   : Total      : 5856 (1.15 Gigabyte (GB))
                           Testing    : 320  (35.4 Megabyte (MB))
 
 <b>Model Parameters</b>
-Machine Learning Library: Keras
-Base Model              : InceptionV3 && Custom Deep Convolutional Neural Network
+Machine Learning Library: PyTorch
+Base Model              : efficientnet_b0 && Custom Deep Convolutional Neural Network
 Optimizers              : Adam
-Loss Function           : categorical_crossentropy
+Loss Function           : CrossEntropyLoss
 
 <b>For Custom Deep Convolutional Neural Network : </b>
 <b>Training Parameters</b>
 Batch Size              : 64
-Number of Epochs        : 30
-Training Time           : 2 Hours
+Number of Epochs        : 10
+Training Time           : 13 seconds
 
 <b>Output (Prediction/ Recognition / Classification Metrics)</b>
 <b>Testing</b>
@@ -79,12 +78,10 @@ Recall (Pneumonia)      : 95.48% (For positive class)
 <pre>
 Languages               : Python
 Tools/IDE               : Anaconda
-Libraries               : Keras, TensorFlow, Inception, ImageNet
+Libraries               : PyTorch, Numpy, PIL
 </pre>
 
 #### Dates
 <pre>
-Duration                : October 2018 - Current
-Current Version         : v1.0.0.3
-Last Update             : 12.16.2018
+Duration                : October 2021 - Current
 </pre>
