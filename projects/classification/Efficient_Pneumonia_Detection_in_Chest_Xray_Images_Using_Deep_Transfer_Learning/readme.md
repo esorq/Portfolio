@@ -32,14 +32,13 @@ Original Paper   : <a href=https://www.cell.com/cell/fulltext/S0092-8674(18)3015
 <b>Dataset Details</b>
 Dataset Name            : Chest X-Ray Images (Pneumonia)
 Number of Class         : 2
-Number/Size of Images   : Total      : 5856 (1.15 Gigabyte (GB))
-                          Training   : 5216 (1.07 Gigabyte (GB))
-                          Validation : 320  (42.8 Megabyte (MB))
-                          Testing    : 320  (35.4 Megabyte (MB))
+Number/Size of Images   : Total      : 219 
+                          Training   : 169 
+                          Testing    : 50 
 
 <b>Model Parameters</b>
 Machine Learning Library: PyTorch
-Base Model              : efficientnet_b0 && Custom Deep Convolutional Neural Network
+Base Model              : efficientnet_b0 
 Optimizers              : Adam
 Loss Function           : CrossEntropyLoss
 
@@ -72,6 +71,7 @@ Recall (Pneumonia)      : 100%
 <kbd>
 ![cm1](https://user-images.githubusercontent.com/75247240/213099840-16cc1667-5910-400d-8990-b1862565e71d.JPG)
 </kbd>
+![cm1](https://user-images.githubusercontent.com/75247240/213105319-445b9e6c-1399-463b-9226-14a94c47a167.JPG)
 
 #### Tools / Libraries
 <pre>
