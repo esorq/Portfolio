@@ -1,6 +1,6 @@
 **Table of contents**
-- [Binary classification on tabular data](#https://github.com/esorq/ml-portfolio/blob/main/projects/classification/Binary_classifcation_for_breast_cancer_diagnosis.ipynb)
-- [Anomaly detection for assembly verification](#anomaly-detection-for-assembly-verification) 
-
-[Contribution guidelines for this project](Binary_classifcation_for_breast_cancer_diagnosis.ipynb)
+- [Binary_classifcation_for_breast_cancer_diagnosisa](Binary_classifcation_for_breast_cancer_diagnosis.ipynb)
+- [House_price_prediction_on_the_California_Housing_dataset](House_price_prediction_on_the_California_Housing_dataset_.ipynb)
+- [Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning.ipynb)
+- 
 Enjoy!
