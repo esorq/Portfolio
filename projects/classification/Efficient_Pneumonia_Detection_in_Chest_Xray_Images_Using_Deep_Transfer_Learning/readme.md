@@ -21,8 +21,8 @@ Scripts       : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Por
 #### Dataset
 <pre>
 Dataset Name     : Chest X-Ray Images (Pneumonia)
-Dataset Link     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
-                 : <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2>Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)</a>
+Dataset Link     : <a href=https://app.roboflow.com/erik-sorqvist/pneumonia-tzsk8/2>Chest X-Ray Images (Pneumonia) Dataset (subset from Kaggle)</a>
+                 : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
 Original Paper   : <a href=https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5>Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning</a>
                    (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang)
                    https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
@@ -45,16 +45,16 @@ Loss Function           : CrossEntropyLoss
 
 <b>For Custom Deep Convolutional Neural Network : </b>
 <b>Training Parameters</b>
-Batch Size              : 64
+Batch Size              : 8
 Number of Epochs        : 10
-Training Time           : 13 seconds
+Training Time           : 31 seconds, on Tesla P-100 GPU
 
 <b>Output (Prediction/ Recognition / Classification Metrics)</b>
 <b>Testing</b>
-Accuracy (F-1) Score    : 89.53%
-Loss                    : 0.41
-Precision               : 88.37%
-Recall (Pneumonia)      : 95.48% (For positive class)
+Accuracy (F-1) Score    : 92.86%
+Loss                    : 0.25
+Precision               : 78.95%
+Recall (Pneumonia)      : 100% 
 <!--Specificity             : -->
 </pre>
 
