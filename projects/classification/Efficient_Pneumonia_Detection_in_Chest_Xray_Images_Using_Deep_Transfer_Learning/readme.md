@@ -7,14 +7,14 @@ Sub-Domain         : Deep Learning, Image Classification
 
 ### Description
 <pre>
-1. Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neural Network and by retraining pretrained model “efficientnet_b0” with 5856 images of X-ray (1.15GB).
-2. For retraining removed output layers, freezed first few layers and fine-tuned model for two new label classes (Pneumonia and Normal).
-3. With Custom Deep Convololutional Neural Network attained testing accuracy 92.45% and loss 0.2876.
+1. Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neural Network and by retraining pretrained model “efficientnet_b0” with 169 images of X-ray.
+2. For retraining freezed base layers and changed output classes to Pneumonia and Normal.
+3. With retrained model was testing accuracy 92.45% and loss 0.2876 attained.
 </pre>
 
 #### Code
 <pre>
-Colab         : [Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning.ipynb)
+Colab         : <a href=https://github.com/esorq/ml-portfolio/edit/main/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning.ipynb</a>
 Scripts       : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
 </pre>
 
