@@ -69,9 +69,10 @@ Recall (Pneumonia)      : 95.48% (For positive class)
 <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/images/result.png>See More Images</a>
 </kbd>
 
+
 ##### Confusion Matrix: 
 <kbd>
-<img src=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
+![cm1](https://user-images.githubusercontent.com/75247240/213099840-16cc1667-5910-400d-8990-b1862565e71d.JPG)
 </kbd>
 
 #### Tools / Libraries
