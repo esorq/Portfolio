@@ -15,7 +15,7 @@ Sub-Domain         : Deep Learning, Image Classification
 #### Code
 <pre>
 Colab         : <a href=https://github.com/esorq/ml-portfolio/edit/main/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning.ipynb>Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning</a>
-Scripts       : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
+Scripts       : <a href=https://github.com/esorq/ml-portfolio/tree/main/scripts>Scripts used in the Google colab notebook</a>
 </pre>
 
 #### Dataset
