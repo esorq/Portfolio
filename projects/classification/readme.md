@@ -8,6 +8,6 @@
 - [Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning.ipynb)
   - Classification on Image data
   - Dataset 
-  - Keywords - artificial intelligence - transfer learning - deep learning - age-related macular degeneration - choroidal neovascularization - diabetic retinopathy - diabetic macular edema - screening - optical coherence tomography - pneumonia
+Keywords - artificial intelligence - transfer learning - deep learning - age-related macular degeneration - choroidal neovascularization - diabetic retinopathy - diabetic macular edema - screening - optical coherence tomography - pneumonia
 
 Enjoy!
