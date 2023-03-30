@@ -14,8 +14,9 @@ Enjoy!
 - [**Instance Segmentation**](/projects/instance_segmentation/)
   - :oncoming_bus: :car: [Training_a_yolov8_instance_Segmentation_on_custom_data](/projects/instance_segmentation/Training_a_yolov8_instance_Segmentation_on_custom_data.ipynb)
 -[**Text**](placeholder)
-  - :construction: UNDER CONSTRUCTION :construction: [Topic classification in meda texts]()
-  - :construction: UNDER CONSTRUCTION :construction: [Sentiment analysis in public review]()
+  - :construction: UNDER CONSTRUCTION :construction: [Topic classification in meda texts using transformer based modelling]()
+  - :construction: UNDER CONSTRUCTION :construction: [Sentiment analysis in public review using transformer based modelling]()
+  - :construction: UNDER CONSTRUCTION :construction: [Question answering prediction on custom dataset utilizing self attention]()
 ## Workflow
 Results are achieved by leveraging the the following workflow:
 
