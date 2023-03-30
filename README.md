@@ -9,10 +9,16 @@ Enjoy!
   - :house_with_garden::house_with_garden: [House price prediction using Neural Network](/projects/classification/House_price_prediction_on_the_California_Housing_dataset.ipynb) 
   - :pill::syringe: [Pneumonia Detection in Chest Xray Images Using Deep Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
   - :construction: UNDER CONSTRUCTION :construction: [Image classification using Vision Transformer](placeholder) 
+
+
 - [**Object detection**](/projects/object_detection)
   - :oncoming_bus: :car: [Training_a_yolov5_object_detection_model_on_custom_data](/projects/object_detection/Training_a_yolov5_object_detection_model_on_custom_data.ipynb)
+
+
 - [**Instance Segmentation**](/projects/instance_segmentation/)
   - :oncoming_bus: :car: [Training_a_yolov8_instance_Segmentation_on_custom_data](/projects/instance_segmentation/Training_a_yolov8_instance_Segmentation_on_custom_data.ipynb)
+
+
 -[**Text**](placeholder)
   - :construction: UNDER CONSTRUCTION :construction: [Sentiment analysis in public review using transformer based modelling]()
   - :construction: UNDER CONSTRUCTION :construction: [Question answering prediction on custom dataset utilizing self attention]()
