@@ -1,5 +1,5 @@
 # Data Science & Machine Learning portfolio
-I have developed this personal Data Science and Machine Learning portfolio to exhibit my proficiency in applying various machine learning techniques to solve diverse problems, as an aspiring Data Scientist and Machine Learning engineer. I have a backgorund in the mechanical engineering field which sometimes can be seen from the nature of the problems in this portfolio.
+I have developed this personal Data Science and Machine Learning portfolio to exhibit my proficiency in applying various machine learning techniques to solve diverse problems, as an aspiring Data Scientist and Machine Learning engineer. #I have a backgorund in the mechanical engineering field which sometimes can be seen from the nature of the problems in this portfolio.
 
 Enjoy!
 
