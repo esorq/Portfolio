@@ -5,7 +5,7 @@ Enjoy!
 
 **Table of contents**
 - [**Classification**](/projects/classification)
-  - [Breast_cancer_diagnosis_prediction](/projects/classification/Binary_classifcation_for_breast_cancer_diagnosis.ipynb)
+  - :pill::syringe:[Breast_cancer_diagnosis_prediction](/projects/classification/Binary_classifcation_for_breast_cancer_diagnosis.ipynb)
   - [House_price_prediction](/projects/classification/House_price_prediction_on_the_California_Housing_dataset.ipynb) 
   - [Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
 - [**Object detection**](/projects/object_detection)
