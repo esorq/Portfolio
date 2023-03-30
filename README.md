@@ -10,9 +10,9 @@ Enjoy!
   - :pill::syringe: [Pneumonia Detection in Chest Xray Images Using Deep Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
   - :construction: UNDER CONSTRUCTION :construction: [Image classification using Vision Transformer](placeholder) 
 - [**Object detection**](/projects/object_detection)
-  - [Training_a_yolov5_object_detection_model_on_custom_data](/projects/object_detection/Training_a_yolov5_object_detection_model_on_custom_data.ipynb)
+  - :oncoming_bus: :car: [Training_a_yolov5_object_detection_model_on_custom_data](/projects/object_detection/Training_a_yolov5_object_detection_model_on_custom_data.ipynb)
 - [**Instance Segmentation**](/projects/instance_segmentation/)
-  - [Training_a_yolov8_instance_Segmentation_on_custom_data](/projects/instance_segmentation/Training_a_yolov8_instance_Segmentation_on_custom_data.ipynb)
+  - :oncoming_bus: :car: [Training_a_yolov8_instance_Segmentation_on_custom_data](/projects/instance_segmentation/Training_a_yolov8_instance_Segmentation_on_custom_data.ipynb)
 
 ## Workflow
 Results are achieved by leveraging the the following workflow:
