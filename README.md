@@ -7,8 +7,8 @@ Enjoy!
 
 **Table of contents**
 - Classification
-  - [Binary classification on tabular data](project/binary-classification-on-tabular-data)
-  - [Anomaly detection for assembly verification](#anomaly-detection-for-assembly-verification) 
+  - [Binary classification on tabular data](/projects/classification)
+  - [Anomaly detection for assembly verification](/projects/classification) 
 
 ### Binary classification on tabular data
 ### Anomaly detection for assembly verification
