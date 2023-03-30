@@ -12,11 +12,11 @@ Enjoy!
 
 
 - [**Object detection**](/projects/object_detection)
-  - :oncoming_bus: :car: [Training_a_yolov5_object_detection_model_on_custom_data](/projects/object_detection/Training_a_yolov5_object_detection_model_on_custom_data.ipynb)
+  - :oncoming_bus: :car: [Object detection model on custom data using Yolo](/projects/object_detection/Training_a_yolov5_object_detection_model_on_custom_data.ipynb)
 
 
 - [**Instance Segmentation**](/projects/instance_segmentation/)
-  - :oncoming_bus: :car: [Training_a_yolov8_instance_Segmentation_on_custom_data](/projects/instance_segmentation/Training_a_yolov8_instance_Segmentation_on_custom_data.ipynb)
+  - :oncoming_bus: :car: [Instance Segmentation on custom data using Yolo](/projects/instance_segmentation/Training_a_yolov8_instance_Segmentation_on_custom_data.ipynb)
 
 
 - [**Text**](placeholder)
