@@ -13,7 +13,7 @@ Enjoy!
 - [**Object detection**](/projects/object_detection)
   - [Training_a_yolov5_object_detection_model_on_custom_data](/projects/object_detection/Training_a_yolov5_object_detection_model_on_custom_data.ipynb)
 - [**Instance Segmentation**](/projects/instance_segmentation/)
-  - [Instance Segmentation](/projects/instance_segmentation/)
+  - [Training_a_yolov8_semantic_Segmentation_on_custom_data](/projects/instance_segmentation/Training_a_yolov8_semantic_Segmentation_on_custom_data.ipynb)
 
 ## Workflow
 Results are achieved by leveraging the the following workflow:
