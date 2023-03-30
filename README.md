@@ -4,14 +4,15 @@ As an aspiring Data Scientist and Machine Learning engineer, I have built this p
 I have a backgorund in the mechanical engineering field which sometimes can be seen from the nature of the problems in this portfolio.
 
 Enjoy!
-[Binary classification on tabular data](/projects/classification)
+
 **Table of contents**
 - Classification
   - [Binary classification on tabular data](/projects/classification)
   - [Anomaly detection for assembly verification](/projects/classification) 
+  - [Binary classification on tabular data](/projects/classification)
+- Object detection
+- Instance Segmentation
 
-### Binary classification on tabular data
-### Anomaly detection for assembly verification
 
 ## Workflow
 Results are achieved by leveraging the same below workflow as described in the course **Zero to Mastery Learn PyTorch for Deep Learning**:
