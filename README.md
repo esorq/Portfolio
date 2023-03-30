@@ -11,8 +11,9 @@ Enjoy!
   - [House_price_prediction](/projects/classification/House_price_prediction_on_the_California_Housing_dataset.ipynb) 
   - [Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
 - [Object detection](/projects/object_detection)
-- [Instance Segmentation](/projects/instance_segmentation)
-
+  - [Object detection](/projects/object_detection)
+- [Instance Segmentation](/projects/instance_segmentation/)
+  - [Instance Segmentation](/projects/instance_segmentation/)
 
 ## Workflow
 Results are achieved by leveraging the the following workflow:
