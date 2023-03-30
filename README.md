@@ -23,7 +23,7 @@ Enjoy!
   - :construction: UNDER CONSTRUCTION :construction: [Sentiment analysis in public review using transformer based modelling]()
   - :construction: UNDER CONSTRUCTION :construction: [Question answering prediction on custom dataset utilizing self attention]()
 ## Workflow
-Results are achieved by leveraging the the following workflow:
+Results are achieved by leveraging a similair workflow as the following:
 
 ![01_a_pytorch_workflow](https://user-images.githubusercontent.com/75247240/211261407-5afcb13c-43ef-4aeb-9fcc-080053c3ad39.png)
 
