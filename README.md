@@ -19,7 +19,7 @@ Enjoy!
   - :oncoming_bus: :car: [Training_a_yolov8_instance_Segmentation_on_custom_data](/projects/instance_segmentation/Training_a_yolov8_instance_Segmentation_on_custom_data.ipynb)
 
 
--[**Text**](placeholder)
+- [**Text**](placeholder)
   - :construction: UNDER CONSTRUCTION :construction: [Sentiment analysis in public review using transformer based modelling]()
   - :construction: UNDER CONSTRUCTION :construction: [Question answering prediction on custom dataset utilizing self attention]()
 ## Workflow
