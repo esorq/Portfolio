@@ -15,7 +15,7 @@ Enjoy!
 
 
 ## Workflow
-Results are achieved by leveraging the same below workflow as described in the course **Zero to Mastery Learn PyTorch for Deep Learning**:
+Results are achieved by leveraging the the following workflow:
 
 ![01_a_pytorch_workflow](https://user-images.githubusercontent.com/75247240/211261407-5afcb13c-43ef-4aeb-9fcc-080053c3ad39.png)
 
