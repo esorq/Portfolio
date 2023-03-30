@@ -9,7 +9,7 @@ Enjoy!
 - Classification
   - [Binary classification on tabular data](/projects/classification)
   - [Anomaly detection for assembly verification](/projects/classification) 
-  - [Binary classification on tabular data](/projects/classification)
+  - [Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
 - Object detection
 - Instance Segmentation
 
