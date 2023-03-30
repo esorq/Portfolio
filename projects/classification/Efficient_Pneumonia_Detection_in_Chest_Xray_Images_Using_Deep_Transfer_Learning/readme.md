@@ -1,5 +1,9 @@
 ## Pneumonia Detection from Chest X-Ray Images using Transfer Learning                                             
 
+[Check out the code](
+Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning
+.ipynb)
+
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Classification
