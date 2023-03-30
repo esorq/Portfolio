@@ -6,8 +6,9 @@ I have a backgorund in the mechanical engineering field which sometimes can be s
 Enjoy!
 
 **Table of contents**
-- [Binary classification on tabular data](#binary-classification-on-tabular-data)
-- [Anomaly detection for assembly verification](#anomaly-detection-for-assembly-verification) 
+- Classification
+  - [Binary classification on tabular data](project/binary-classification-on-tabular-data)
+  - [Anomaly detection for assembly verification](#anomaly-detection-for-assembly-verification) 
 
 ### Binary classification on tabular data
 ### Anomaly detection for assembly verification
