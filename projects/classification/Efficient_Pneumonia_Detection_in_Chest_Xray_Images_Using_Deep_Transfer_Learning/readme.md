@@ -1,5 +1,3 @@
-[Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning.ipynb)
-
 ## Pneumonia Detection from Chest X-Ray Images using Transfer Learning                                             
 
 <pre>
