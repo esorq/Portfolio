@@ -5,9 +5,9 @@ Enjoy!
 
 **Table of contents**
 - [**Classification**](/projects/classification)
-  - :pill::syringe:[Breast cancer diagnosis prediction using a Neural Network Regression model](/projects/classification/Binary_classifcation_for_breast_cancer_diagnosis.ipynb)
-  - [House_price_prediction](/projects/classification/House_price_prediction_on_the_California_Housing_dataset.ipynb) 
-  - [Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
+  - :pill::syringe: [Breast cancer diagnosis prediction using a Neural Network Regression model](/projects/classification/Binary_classifcation_for_breast_cancer_diagnosis.ipynb)
+  - :house_with_garden: [House price prediction using Neural Network](/projects/classification/House_price_prediction_on_the_California_Housing_dataset.ipynb) 
+  - :pill::syringe: [Pneumonia Detection in Chest Xray Images Using Deep Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
 - [**Object detection**](/projects/object_detection)
   - [Training_a_yolov5_object_detection_model_on_custom_data](/projects/object_detection/Training_a_yolov5_object_detection_model_on_custom_data.ipynb)
 - [**Instance Segmentation**](/projects/instance_segmentation/)
