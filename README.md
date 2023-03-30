@@ -11,7 +11,7 @@ Enjoy!
   - [House_price_prediction](/projects/classification/House_price_prediction_on_the_California_Housing_dataset.ipynb) 
   - [Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
 - [Object detection](/projects/object_detection)
-  - [Object detection](/projects/object_detection)
+  - [Training_a_yolov5_object_detection_model_on_custom_data](/projects/object_detection/Training_a_yolov5_object_detection_model_on_custom_data.ipynb)
 - [Instance Segmentation](/projects/instance_segmentation/)
   - [Instance Segmentation](/projects/instance_segmentation/)
 
