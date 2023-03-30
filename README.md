@@ -7,9 +7,9 @@ Enjoy!
 
 **Table of contents**
 - Classification
-  - [Binary classification on tabular data](/projects/classification)
-  - [Anomaly detection for assembly verification](/projects/classification) 
-  - [Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
+  - [Breast_cancer_diagnosis_prediction](/projects/classification/Binary_classifcation_for_breast_cancer_diagnosis.ipynb)
+  - [House_price_prediction_on_the_California_Housing_dataset](/projects/classification/House_price_prediction_on_the_California_Housing_dataset.ipynb) 
+  - [Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning](/projects/classification/Efficient_Pneumonia_Detection_in_Chest_Xray_Images_Using_Deep_Transfer_Learning/)
 - Object detection
 - Instance Segmentation
 
@@ -18,3 +18,5 @@ Enjoy!
 Results are achieved by leveraging the same below workflow as described in the course **Zero to Mastery Learn PyTorch for Deep Learning**:
 
 ![01_a_pytorch_workflow](https://user-images.githubusercontent.com/75247240/211261407-5afcb13c-43ef-4aeb-9fcc-080053c3ad39.png)
+
+
