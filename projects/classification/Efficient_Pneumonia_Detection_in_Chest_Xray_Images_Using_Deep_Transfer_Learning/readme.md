@@ -67,10 +67,7 @@ Recall (Pneumonia)      : 100%
 
 
 ##### Confusion Matrix: 
-<kbd>
-![cm1](https://user-images.githubusercontent.com/75247240/213099840-16cc1667-5910-400d-8990-b1862565e71d.JPG)
-</kbd>
-![cm1](https://user-images.githubusercontent.com/75247240/213105319-445b9e6c-1399-463b-9226-14a94c47a167.JPG)
+
 
 ![alt text](https://user-images.githubusercontent.com/75247240/213105319-445b9e6c-1399-463b-9226-14a94c47a167.JPG)
 
