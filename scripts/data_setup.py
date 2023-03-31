@@ -1,6 +1,8 @@
 """
 Contains functionality for creating PyTorch DataLoaders for 
-image classification data.
+image classification data orderd in two folders: 
+1 training folder and 1 testing folder. 
+Class names will be the same names given to these folders.
 """
 import os
 
