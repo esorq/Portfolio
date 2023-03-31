@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@esorq 
-mrdbourke
-/
-pytorch-deep-learning
-Public
-Fork your own copy of mrdbourke/pytorch-deep-learning
-Code
-Issues
-21
-Pull requests
-3
-Discussions
-Actions
-Projects
-1
-Security
-Insights
-pytorch-deep-learning/helper_functions.py /
-@mrdbourke
-mrdbourke add walk through dir
-Latest commit bf2b959 on Jul 22, 2022
- History
- 1 contributor
-294 lines (230 sloc)  9.92 KB
-
 """
 A series of helper functions used throughout the course.
 If a function gets defined once and could be used over and over, it'll go in here.
@@ -189,8 +156,7 @@ def plot_loss_curves(results):
     plt.legend()
 
 
-# Pred and plot image function from notebook 04
-# See creation: https://www.learnpytorch.io/04_pytorch_custom_datasets/#113-putting-custom-image-prediction-together-building-a-function
+
 from typing import List
 import torchvision
 
@@ -313,18 +279,3 @@ def download_data(source: str,
             os.remove(data_path / target_file)
     
     return image_path
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-pytorch-deep-learning/helper_functions.py at main · mrdbourke/pytorch-deep-learning
